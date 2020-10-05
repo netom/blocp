@@ -1,0 +1,8 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "blocp:lib"
+    - path: "./app"
+      component: "blocp:exe:blocp"
+    - path: "./test"
+      component: "blocp:test:blocp-test"
